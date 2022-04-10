@@ -1,10 +1,5 @@
-# JavaScript
-learn basics of javascript
 
------------------------- Development environment setting :
-2.
-
----------------------------------- Basics JavaScript Syntax : 3
+# Basics JavaScript Syntax : 3
 
 + variables : 4
 
@@ -24,8 +19,6 @@ learn basics of javascript
 + Iteration statements : 12
     -for
     -while
-
----------------------------------------------------- avancé chwaya
 
 
 + this : 18
@@ -57,7 +50,7 @@ learn basics of javascript
 
 
 
-------------------------------------------- Functions :
+# Functions :
 
 + Function Declaration : 9   
         function sayHello() {
@@ -83,7 +76,7 @@ learn basics of javascript
 
 
 
--------------------------------------------- Object :
+# Object :
 
 + Built in Natives Type  : 22
         -liste of builts how have  primitive version :  
@@ -125,7 +118,7 @@ learn basics of javascript
 
 
 
--------------------------------------------- Classes :
+# Classes :
 
 + Classes : 25
         - javascript technicly dont has the notion of "classes"
@@ -137,7 +130,7 @@ learn basics of javascript
 
 
 
---------------------------------- Astuces javascripts :
+# Tips javascripts :
 
 + Basics of scope : 13
     - scope = bloc de code limité par {  }
