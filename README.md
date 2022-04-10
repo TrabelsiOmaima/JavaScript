@@ -1,5 +1,5 @@
 
-# Basics JavaScript Syntax : 3
+# Basics JavaScript Syntax : 
 
 + variables : 4
 
